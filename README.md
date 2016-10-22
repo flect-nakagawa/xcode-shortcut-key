@@ -12,8 +12,10 @@
 ### Editor
 | 概要            | キー           | 備考           |
 | ------------- |-------------|-------------|
+| Show the Standard Editor | Cmd + Enter |-| 
+| Show the Assistant Editor | Cmd + Opt + Enter |-| 
 | Left Navigator 開閉 | Cmd + 0 |-| 
-| Right Navigator 開閉 | Cmd + opt + 0 |-| 
+| Right Navigator 開閉 | Cmd + Opt + 0 |-| 
 | Debug Area 開閉 | Cmd + Shift + y |-| 
 
 ### 検索
