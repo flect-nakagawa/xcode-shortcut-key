@@ -7,8 +7,9 @@
 ### Story Board
 | 概要            | キー           | 備考           |
 | ------------- |-------------|-------------|
-| IBOutletの関連付け | Ctr + コントロール選択 → New Referencing Outlet → View Controller → 選択 |-| 
-| IBActionの関連付け | Ctr + コントロール選択 → Drag → View Controller → 選択  |-| 
+| IBOutletの関連付け | Ctr + コントロール選択 → New Referencing Outlet → View Controller → 選択 | 事前に@IBOutletの宣言を行う | 
+| IBActionの関連付け | Ctr + コントロール選択 → Drag → View Controller → 選択  | 事前に@IBActionの宣言を行う | 
+| IBOutletとIBActionの関連付け確認 | ViewController選択 → Ctr + クリック  |-| 
 | コントロールの枠線 ON/OFF | Editor → Canvas → Show Bounds Rectangles |-| 
 | コントロールの複製 | コントロール選択 + Opt + Drag |-| 
 
