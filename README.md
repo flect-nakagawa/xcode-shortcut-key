@@ -12,6 +12,7 @@
 | IBOutletとIBActionの関連付け確認 | ViewController選択 → Ctr + クリック  |-| 
 | コントロールの枠線 ON/OFF | Editor → Canvas → Show Bounds Rectangles |-| 
 | コントロールの複製 | コントロール選択 + Opt + Drag |-| 
+| Labelの縮小(...)回避 | Cmd + Shift + = |-| 
 
 ### Editor
 | 概要            | キー           | 備考           |
