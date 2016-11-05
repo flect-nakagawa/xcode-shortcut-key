@@ -22,6 +22,8 @@
 | Left Navigator 開閉 | Cmd + 0 |-| 
 | Right Navigator 開閉 | Cmd + Opt + 0 |-| 
 | Debug Area 開閉 | Cmd + Shift + y |-| 
+| 戻る/進む | Cmd + Ctr + ←/→ |-| 
+
 
 ### 検索
 | 概要            | キー           | 備考           |
